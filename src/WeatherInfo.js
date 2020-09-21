@@ -18,7 +18,7 @@ export default function WeatherInfo(props) {
           </div>
         </div>
         <div className="col-6">
-          <h1>{props.data.city} ☕︎ </h1>
+          <h1>{props.data.city}</h1>
         </div>
       </div>
       <div className="row">
